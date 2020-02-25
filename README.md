@@ -9,8 +9,8 @@
       }
       
       h1{ 
-    border: 56px solid powderblue;
-    padding:41px;
+    border: 25px solid powderblue;
+    padding:20px;
      font-family: courier;
      
         </style> 
