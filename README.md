@@ -9,7 +9,7 @@
       }
       
       h1{ 
-    border: 1000px solid green;
+    border: 10px solid white;
     padding:10px;
      font-family: courier;
      
