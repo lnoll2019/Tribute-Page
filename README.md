@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Event invite</title>
         
         <style>
       
@@ -9,9 +8,10 @@
         background:rgb(100, 200, 300);
       }
         
- 
-        
+      
         </style>
+        
+        
     </head>
     
     <body>
