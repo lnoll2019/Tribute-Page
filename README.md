@@ -1,24 +1,22 @@
 <html>
     <head>
         <meta charset="utf-8">
-        
+    </head>    
         <style>
       
       body{
         background:rgb(100, 200, 300);
       }
-        
-      
-        </style>
-        
-        
-    </head>
+    
+        </style> 
+  
     
     <body>
-        <div id="middle">
+ 
         
+         <h1> <center> Mr. Noll's Tribute Page </center> </h1>
        
-      </div>
+     
    
   </body>
 </html>
