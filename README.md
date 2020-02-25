@@ -11,8 +11,12 @@
       h1{ 
     border: 10px solid white;
     padding:10px;
-     font-family: courier;
+     font-family: Comic Sans;
+     }
      
+     h2 {
+     font-family: Helvetica;
+     }
         </style> 
   
     
