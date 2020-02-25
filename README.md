@@ -16,7 +16,7 @@
     <h2>Songs</h2>
     
     <p>Little Bunny Foo Foo, <br>
-I don't want to see you <br>
+RABBITS <br>
 scooping up the field mice <br>
 and bopping them on the head!</p>
 
