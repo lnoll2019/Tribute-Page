@@ -4,7 +4,7 @@
         <title>Project: Event invite</title>
         <style>
         body{
-        background:rgb(255, 136, 0);
+        background:rgb(100, 200, 300);
         }
         
         #title{
@@ -127,43 +127,11 @@
         
         </style>
     </head>
+    
     <body>
         <div id="middle">
-    <h5 id="join">JOIN US IF YOU DARE</h5>
-
-        <h1 id="title"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Goosebumps_logo.svg/1200px-Goosebumps_logo.svg.png" width="200"></h1>
-        <p><strong id="invitation">You're invited to halloween party</strong></p>
-        </div>
         
        
-        <div class="date">
-        <strong>31th</strong> <br>of
-        <strong><br>---OCTOBER</strong></div> 
-        <div id="time">
-        <strong>FROM</strong> 8:00<br><p id="time2"><strong>IN THE EVENING
-        <br>UNTIL THE END OF THE PARTY</strong></p></div>
-        
-        <div id="place">
-      <strong>The Sallie House</strong> <br>508 N 2nd St, Atchison, KS 66002 
-        </div>
-        <div id="costume">
-        <strong>Costumes Required!!</strong>
-        </div>
-        <div id="bat">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bat_shadow_black.svg/1024px-Bat_shadow_black.svg.png" width="90">
-       
-    </div>
-    <div id="bat2">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bat_shadow_black.svg/1024px-Bat_shadow_black.svg.png" width="90">
-      </div>
-      <div id="ghost">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Aka_Manto.png" width="60">
-      </div>
-      <div id="cute-ghost">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/User-invisible.svg/1200px-User-invisible.svg.png" width="50">
-      </div>
-      <div id="escape">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Escape-2017-logo-lock-up-black-final-noinfo.png" width="200">
       </div>
    
   </body>
