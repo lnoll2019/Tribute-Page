@@ -16,7 +16,7 @@
      
      h2 {
      font-family: Helvetica;
-     color:rgb(0, 100, 400);
+     color:rgb(91, 217, 215);
      
      }
         </style> 
